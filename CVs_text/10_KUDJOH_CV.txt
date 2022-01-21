@@ -1,0 +1,117 @@
+ Aloguidi Kankué KUDJOH
+
+� +84 936-216-701 � +228 90-39-75-41
+� kkuddjoh@gmail.com
+� github.com/kfabio2020
+� linkedin.com/in/fabrice-kudjoh-8b1805a4
+� https://sites.google.com/kudjohkankue
+� Nationalité Togolaise
+� FORMATION
+
+� Hanoi, VIETNAM
+
+Objet : Recherche de stage Master Informatique
+
+2010 – 2013
+
+2019 – 2021 Master en Informatique option Systèmes Intelligents et Multimédia de l’Institut Francophone Interna-
+tional (IFI), UNIVERSITÉ NATIONALE DU VIETNAM (UNV) en double Diplomation avec l’UNIVERSITE DE LA
+ROCHELLE, FRANCE (ULR). Hanoi, VIETNAM
+Diplôme d’Ingénieur des Travaux Informatiques, Option Génie Logiciel de l’Institut Africain d’Informa-
+tique (IAI-TOGO) Lomé, TOGO
+� PROJETS ACADÉMIQUES EN MASTER
+DÉTECTION ET CLASSIFICATION DES MALADIES DES PLANTES
+
+2019 - 2020
+
+∠ Détection et classification automatique des images des maladies des plantes en utilisant du Deep Learning.
+∠ Application Mobile pour la classification des maladies des plantes.
+∠ Outils et technologies utilisés : Tensorflow, TensorFlow Lite, Keras, Python, Réseaux de neurones convolutifs (ResNet50),
+
+Flutter, Dart, Android Studio, Google Colaboratory.
+
+APPLICATION DE LA FOUILLE DE DONNÉES ET RECHERCHE D’INFORMATION CAS DU JEU DE DONNÉES : ADULT
+
+2019 - 2020
+
+∠ Apprentissage non supervisé : HAAC, ACP, KMeans
+∠ Apprentissage supervisé : SVM, Random Forest, Decision Tree Classifier
+∠ Outils et technologies utilisés : Python, pandas, numpy, Google Colaboratory, matplotlib, seaborn, sklearn
+
+� EXPÉRIENCE PROFESSIONELLE
+
+Janvier 2017
+
+Décembre 2019
+
+Mars 2016
+Novembre 2016
+Juin 2015
+Novembre 2015
+
+Avril 2014
+Décembre 2014
+
+Analyste | Programmeur, CABINET DE GESTION, DE CONSEILS EN FINANCE ET D’INFORMATIQUE (CAGECFI),
+TOGO
+
+∠ Participation à l’analyse, la conception et au développement d’un ERP pour la gestion des activités
+
+de la Société Autonome de Financement de l’Entretien Routier (SAFER) du TOGO,
+
+∠ Participation à l’analyse, la conception et au développement du projet de reporting pour l’édition des
+
+états financiers.
+
+Stagiaire Analyste | Programmeur, ASTEAM, TOGO
+
+∠ Participation à l’analyse, la conception et au développement d’une application de gestion de stock.
+
+Stagiaire Analyste | Programmeur, ORABANK, TOGO
+
+∠ Installation et configuration du logiciel de gestion de banque SBA (Supra Banking Aplitude),
+∠ Assistance des utilisateurs et exécutions des tâches de maintenances.
+
+Stagiaire Analyste | Programmeur, J3A SOFTWARE GROUP ABIDJAN, COTE D’IVOIRE
+
+∠ Réalisation d’une application de vente en ligne.
+
+� COMPÉTENCES
+
+Programmation
+Frameworks
+
+Java J2EE, Python (Pandas, Numpy, Scikit-image, Matplotlib, Scikit-learn), PHP, W-Langage
+Spring, Spring Boot, Angular,JPA, Hibernate, JSF, Symfony, Bootstrap, Wicket, Prime-
+faces,Itext, JasperReport, Maven.
+
+Bases de données MySQL, PostgreSQL, HyperFileSQL, Oracle, Microsoft SQL Server.
+
+Serveur d’applications
+Modélisation et Methode
+Outils et Systèmes d’exploitation
+
+Intelligence Artificielle
+
+Tomcat.
+UML, Merise et Méthode Agile (SCRUM).
+(Eclipse, Netbeans, Visual Studio Code, Jupyter Notebook,Android Studio, git, github, Windev
+(20,21)); (Windows , Linux).
+Simulation des systèmes multi-agent : Gama; Vision par Ordinateur : OpenCV; Machine
+Learning et Deep Learning : Keras, TensorFlow, TensorFlow Lite; Data Mining : Tanagra; Bu-
+reautique : LATEX, Microsoft office (Word, Excel, PowerPoint, Publisher, Outlook)
+
+� RÉFÉRENCES
+Dr HO Tuong Vinh
+Enseignant chercheur à l’Institut Francophone International, HANOI, VIETNAM
+
+� ho.tuong.vinh@ifi.edu.vn
+� +84 904 179 787
+
+3 NOVEMBRE 2020
+
+KUDJOH ALOGUIDI KANKUÉ - CV
+
+1
+
+

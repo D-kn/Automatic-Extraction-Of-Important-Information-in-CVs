@@ -1,0 +1,123 @@
+ PAZIMNA Solibia
+INGENIEUR DATA SCIENTIST
+
+ (+84) 865 786 431
+ spazimna@gmail.com
+ www.linkedin.com/in/pazimna-
+
+solibia-6121b4192/
+
+ solibia
+
+Compétences
+
+Langages:Python, Java, C++, C,
+Javascript, R, Gamal.
+
+Machine Learning: modèle probabiliste,
+Classification & Régression.
+
+Data Science: KDD, Data mining & Data
+analysis.
+
+Education
+2018 - 2020 Master en Informatique option Systèmes Intelligents et Multimedia
+en double Diplomation avec la Rochelle Université, en France option
+Parcours Données
+INSTITUT FRANCOPHONE INTERNATIONAL (IFI), UNIVERSITÉ NATIONALE DU
+VIETNAM (UNV)
+
+2013 - 2016 Licence en Systèmes et Réseaux informatique
+
+CENTRE INFORMATIQUE ET DE CALCUL (CIC), UNIVERSITÉ DE LOMÉ
+
+REALISATIONS
+Juin-Aout.2020 Recherche d’information :
+
+d’information sur des sites vietnamien. (Python, NLTK, selenium)
+
+Il s’agit de faire de la recherche
+
+Dec. 2018 -
+
+Juil. 2019
+Juin 2019
+
+Systèmes de recommandation: Projet de recherche encadré en ma-
+chine learning. Le but du projet est de concevoir un framework de
+recommandation augmentant la diversité dans les recommandations
+des produits. (Spark, Python)
+
+Chatbot de traduction: Le but du projet était de concevoir un chat-
+bot traducteur de l’anglais vers le vietnamien. Le chatbot en ligne est
+accessible ici . (NLTK, NodeJs, Vue js, YandexAPI)
+
+Janv.-Juil.2019 Rapid reader:
+
+Le but du projet est d’utiliser des techniques NLP
+pour mettre en exergue les parties importantes dans un document.
+(NLTK, Summy, Python, Django, MySql)
+
+Reinforcement Learning: SARSA, QLearn-
+ing.
+
+Dec. 2019
+
+Conception d’un moteur de recherche d’images: Il s’agit d’utiliser
+les descripteurs SIFT et l’histogramme pour rechercher les images
+semblable avec KNN. (OpenCV, Sklearn Python)
+
+Réseaux de neurones: CNN, ANN, RNN,
+DQN & DDQN.
+
+Dec. 2019
+
+Bibliothèques: Tensorflow, Pytorch,
+Keras, Sklearn, NLTK.
+
+Image & Pattern recognition
+
+Computer Vision : OpenCV, Haar.
+
+Expériences Profes-
+sionnelles
+Stage de fin de formation en Master2
+Mars 2020 - Sept. 2020 à Télecom Paris
+(France)
+
+(LSTM) Deep Learning pour le marché boursier: proposition d’une
+formalisation basée sur l’apprentissage en profondeur pour la prévi-
+sion du prix des actions. (Tensorflow, Sklearn, Python)
+
+Sep. 2019
+
+(CNN) Reconnaissance d’émotion: Il s’agit de faire une reconnais-
+sance automatique de sentiment d’un individu grâce à une séquence
+audio de sa voix. (Tensorflow, Sklearn, Python)
+
+Oct.-Dec.2019 (CNN) Reconnaissance de signature manuscrite: Il s’agit d’utiliser
+les réseaux Siamese convolutif pour la vérification de signature hors
+ligne. (Tensorflow, Sklearn, Python)
+
+Jan. 2020
+
+(CNN) Reconnaissance de panneaux routiers :
+Il s’agit de faire
+une reconnaissance automatique de panneaux routiers (Tensorflow,
+Sklearn, Python)
+
+Compétition
+
+Assistant Ingénieur Informatique
+Mai 2017 - Oct. 2018 à Lomé (Togo)
+
+Juil. 2019
+
+Administrateur réseau informatique
+Août 2016 – Mars 2017 à Lomé (Togo)
+
+AI Grand Challenge HACKATHON Vietnam: Deep Learning for the
+recognition of human activity based on sensors data to ensure the
+safety of women and children
+
+

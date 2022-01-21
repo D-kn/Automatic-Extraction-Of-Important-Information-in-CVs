@@ -1,0 +1,304 @@
+ Education
+Present
+
+Dec. 2019
+June 2017
+Sep. 2016
+June 2016
+Sep. 2015
+Experience
+Feb. 2016
+Feb. 2016
+Nov. 2018
+Juin. 2018
+Dec. 2019
+
+Dec. 2019
+April 2020
+
+Avril 2020
+
+July 2020
+
+Nov. 2020
+
+MasterComputerScience
+Hanoi, Vietnam.
+Option Systèmes Intelligents et Multimédia
+Institut Francophone International (IFI), Vietnam National Uni-
+versity(VNU) in Hanoi in double degree with the University of La
+Rochelle(France).
+MasterIInMathematicalandComputerSciences
+Yaounde,
+Cameroon.
+At University of Yaounde I.
+BachelorInMathematicalandComputerSciences
+Cameroon.
+At University of Yaounde I.
+
+Yaounde,
+
+Developer(Freelance)
+Yaounde, Cameroon.
+Implementationofaninventorymanagementapplicationforstore,
+in java. Yaounde, Cameroun.
+DeveloperFront-End(Freelance)
+CMAX-IG S.A(BJFT S.A) Yaounde,
+Cameroon.
+Setting up awallet for money transferCameroon-Canada with ionic
+framework. Version beta.
+ITManager
+BJFT S.A Yaounde, Cameroon.
+• Redesign of the Cameroon-Canada money transfer wallet in
+place. bjft.sa app
+• Adminstratorofthee-commerceplatformdevelopedwiththe
+prestashop framework. cmaxstore.com
+• Responsible for relations with clients and partners (Express
+Union, AVS Telecom)
+
+Exammonitoringusingcomputervisionandmachinelearning. In-
+stitut Francophone Internationale, Hanoi Vietnam.
+Implementationofamulti-modelexaminationmonitoringapplica-
+tion,basedonheadposedetection,facerecognition,emotionrecog-
+nition and cheating scene recognition. (python, CNN, faceNet, In-
+ception, matplotlib, seaborn, numpy, pandas, opencv, django)
+(cid:135) Models code - (cid:135) code App
+ImageProcessing
+Institut Francophone Internationale, Hanoi Vietnam.
+Applicationofimageprocessingoperations,convolution,lowpass
+ﬁlters(Gaussian,averaging),highpassﬁlters(Fouriertransform),
+thresholding, edge detection. (opencv, C++)
+(cid:135) image processing
+Operationalresearch:taskassignment
+Institut Francophone
+Internationale, Hanoi Vietnam.
+implementationofasolutiontothetaskassignmentproblem. (Java)
+(cid:135) task assignment problem
+Datascience,housepriceprediction
+Institut Francophone
+Internationale, Hanoi Vietnam.
+Using machine learning, data mining and data analysis to ﬁgure
+out house price prediction. (PCA, SVM, KNN, Decision tree, Linear
+regression)
+(cid:135) house price prediction
+CIELABcolorspacebasedskindetection
+Institut Francophone
+Internationale, Hanoi Vietnam.
+Skin and non-skin pixel classiﬁcation model using the histogram
+approach and the Bayesian approach.
+(cid:135) skin detection
+
+Jan. 2019
+Academic Projects
+Aug. 2020
+
+KANANGUIMFACKKévin
+Recherche stage en informatique
+g Sep. 23, 1991. Cameroonian
+‰ 144 Xuan Thuy , Cau Giay, Hanoi
+(cid:211) +84 373 377 860
+ﬂ https://www.linkedin.com/in/kana-
+kevin-5942b9129
+R kevin.kana.91@gmail.com
+(cid:135) https://www.github.com/KN-
+About Me
+StudentinMasterIIcomputerscience,
+specialtyartiﬁcialintelligence.Passion-
+ate about machine learning and deep
+learning,imageprocessingandcomputer
+vision.Languages
+
+Kevinoh
+
+○ ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+French
+English
+German
+
+Skills
+
+○ ○ ○ ○ ○
+
+julia
+
+numpy, pandas, Scipy
+
+Machine Learning
+scikit-learn
+seaborn
+python
+Deep Learning
+tensorﬂow
+keras
+Computer Vision
+keras
+opencv
+Image processing
+opencv
+Pillow Matplotlib
+Naturel language processing ○ ○ ○
+
+Dlib
+SciPy
+
+○ ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+○ ○ Data mining
+python
+
+R
+
+○ ○ ○ ○ ○
+
+ Modelisation&Simulation ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+○ ○ ○ ○ ○
+
+php
+
+GAML
+
+○GAMA Platform jade
+
+Mysql
+
+Constraintprogramming ○ ○ ○ ○ ○
+Programminglanguage ○ ○ ○ ○ ○
+java
+C/C++
+Javascript
+Frameworks
+Laravel
+django
+Database
+SQL
+NoSql
+
+php , HTML5/CSS3
+C#
+ionic
+Postgresql
+
+Dr. HOTUONGVinh Lecturer-Researcher
+Email: ho.tuong.vinh@iﬁ.edu.vn
+Tel.: +84 (024) 374 501 73
+
+sqliteReferences
+Hobbies
+Readingnewspaper
+Have a keen eye on current a(cid:24)airs
+MusicAddict
+Listen qualitymusic ofevery genre
+Tracking
+Going for mount climbing on every
+single year
+Travelling
+Always fond of traveling to exotic
+places
+
+Ǯ
+
+ƞ
+
+ǌ
+
+(cid:201)
+
+Jan. 2021
+
+Jan. 2021
+
+Dec. 2020
+
+Nov. 2020
+
+Institut Francophone
+recognition by the David Lowe ap-
+
+Simulatingthespreadofanepidemic
+Institut Francophone
+Internationale, Hanoi Vietnam.
+Modeling and simulation of the epidemic spread in a city. (GAMA
+Platform)
+(cid:135) spread disease
+ObjectsrecognitionusingSIFTdescriptors
+Internationale, Hanoi Vietnam.
+Application of object
+proach.(opencv, numpy, pandas, maplotlib)
+(cid:135) Object recognition SIFT
+Leavesrecognition
+Institut Francophone Internationale, Hanoi Vietnam.
+Using visual Bagof words and SupportVectors Machine classiﬁer
+to perform leaves’ trees recognition, ﬂavia dataset.(opencv, numpy,
+maplotlib, kmeans)
+(cid:135) leave recognition
+Fingerprintrecognition Institut Francophone Internationale, Hanoi Vietnam.
+Using deep learning to perform ﬁngerprint recognition based
+on pattern recognition, SOCOFING dataset.(opencv, ﬁnger-
+print_enhancement library numpy, pandas, maplotlib )
+(cid:135) ﬁngerprint recognition
+Certiﬁcation of completion
+Dec. 2020
+Dec. 2020
+
+DeepLearning
+Fun-mooc.fr.
+certiﬁcate of completion of the deep learning course, by Nicolas
+Thome.
+SemanticWebandWebofData
+Fun-mooc.fr.
+certiﬁcate of completion of the Semantic Web and Web of Data
+course,byparFabienGandon,CatherineFaron-ZuckerandOlivier
+Corby.
+DiscoverthePythonlibrariesforDataScience
+ID : 1394587763
+Learnaboutbasicdigitalimageprocessing
+ID : 6090158907
+Ismachinelearningthefutureofhumans?
+ID : 7594059871
+LearnaboutMachineLearning
+ID : 6362164750
+AIobjective:learnaboutartiﬁcialintelligence
+ID : 2295436216
+Communicateusingdigitaltools
+ID : 2661145989
+
+Openclassroom.
+Openclassroom.
+Openclassroom.
+Openclassroom.
+Openclassroom.
+Openclassroom.
+
+July 2020
+July 2020
+July 2020
+June 2020
+July 2020
+April 2020
+Membership
+June. 2016
+Oct. 2012
+June. 2018
+
+ITclubmember
+University of Yaounde I, Cameroon.
+ResponsibleforpromotingITinordertomakeITaccessibletoall,
+through training workshops and MeetUp to share our passion.
+Innovatechassociationmember
+Yaounde, Cameroon.
+Non-proﬁt organization, its main mission is to popularize technolo-
+gies through innovative solutions, useful and accessible to all.
+
+

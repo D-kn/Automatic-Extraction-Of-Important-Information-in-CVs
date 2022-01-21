@@ -1,0 +1,286 @@
+ ETAT CIVIL  
+
+Nom et Prénom(s) : OUEDRAOGO Wênd-Panga Jérémie 
+
+Date de Naissance : 05 Juillet 1985 
+
+Lieu de Naissance : Ouagadougou / Burkina Faso 
+
+Nationalité : Burkinabè 
+
+Situation matrimoniale : Marié, père d'un  enfant 
+
+Permis de conduire : Catégorie C 
+
+Spécialité(s) : Programmation Web, Maintenance et formation informatique 
+
+Contacts : 70 02 30 32 – 68 24 64 24 – 74 25 63 25 
+
+Email : jjstaro@gmail.com / jjstaro@yahoo.fr / ouedjerem@gmail.com  
+
+Adresse: Ouagadougou, secteur N° 49 (Ex 29), quartier "Katre-Yaar". 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CURSUS SCOLAIRE  
+
+  2008  -  2009 :  Institut  Supérieur  d’Informatique  et  de  Gestion  (ISIG),    3ème  
+année  d'Ingénieur  des  Travaux  Informatiques    -  IT3  (Licence  Informatique 
+Option Ingénieur du génie Logiciel); 
+
+  2007  –  2008 :  Institut  Supérieur  d’Informatique  et  de  Gestion  (ISIG),    2ème  
+
+année Ingénieur des Travaux - IT2 (DAP : Diplôme d’Analyste Programmeur); 
+
+  2006  –  2007  :  Institut  Supérieur  d’Informatique  et  de  Gestion  (ISIG),  1ère 
+
+Année Informatique de Gestion - IT1; 
+
+  2005 – 2006 : Ecole de la Jeunesse, Terminale H (BAC H, BEP Informatique); 
+  2003  –  2005 :  Ecole  de  Formation  et  d’Etude  Commerciale  (EFEC),  2nde  H 
+
+(Informatique), 1ère H (Informatique); 
+
+  2002 – 2003   : Lycée Départemental de Saponé, 3ème, BEPC; 
+  1997 – 1998 : Cours Moderne Saint André, CM2, Entrée en Sixième; 
+  1996 –1997 : Ecole public Dag-Noën B, CEP. 
+
+ 
+
+ 
+
+1 
+
+ EXPERIENCES PROFESSIONNELLES 
+
+  Depuis le 16 janvier 2017: Technicien Supérieur en Informatique à l'Université 
+
+Ouaga I Pr Joseph KI-ZERBO. 
+
+  Du  15  février  2013  au  30  avril  2016:  Informaticien  à  l'Interprofession  Table 
+Filière Karité (TFK), pour le compte du projet ICCO, dans le cadre de la mise en 
+place d'un Système d'Information et de Communication sur la filière karité du 
+Burkina 
+(SIC-TFK); 
+- Gestionnaire de la base  de données de  la TFK et du répertoire des acteurs 
+membres de l'interprofession de la filière karité du Burkina; 
+
+  Du  08  Août  2011  au  30  Novembre  2012 :  Informaticien  à  FAGMETHOD, 
+société d'informatique sur la place, dans le développement d'applications, la 
+formation en informatique et la maintenance informatique; 
+
+  Du 01/10/2010 au 31/12/2010 : Stage au Service Technique et Informatique 
+de  AZALAI  Hôtel  Indépendance,  dans  le  cadre  de  l'accroissement  des 
+compétences  informatiques,  notamment  dans  la  Gestion  d'une  Base  de 
+Données réseau; 
+
+  Du  01er  Août  au  30  Septembre  2008 :  Stage  à  l’ONEA  Siège  –  Service 
+Informatique  pour  la  soutenance  en  vue  de  l'obtention  du  DAP  (Diplôme 
+d'Analyste Programmeur). 
+
+ 
+
+COMPETENCES INFORMATIQUES 
+
+  BASE DE DONNEES  
+
+o  Parfaite  Analyse  et  Conception  de  Base  de  Données:  modélisation  UML, 
+
+MERISE; 
+
+o  Conception,  gestion  et  administration  de  base  de  données  SQL  server, 
+
+Access, MySQL, PostgréSQL 
+ 
+
+  PROGRAMMATION  
+
+o  VBA: Expérience très avancée dans le  développement d'applications sous 
+
+Access; 
+
+o  Programmation Web: PHP exploitation Access ou MySQL, Java script, SQL 
+
+Server, HTML…; 
+
+ 
+
+2 
+
+ o  Microsoft  Visual  Basic 
+
+(VB6),  Delphi  exploitation  BD  Access. 
+
+ 
+
+  RESEAU ET ADMINISTRATION DE SYSTEME INFORMATIQUE 
+
+o  Connaissance  des  outils  de  Stockage  NAS  et  SAN  pour  le  partage  et  la 
+
+gestion des données en réseau; 
+
+o  Connaissance du sur le Serveur Sinologie pour la gestion et le partage des 
+
+données; 
+
+o  Configuration  de  Microsoft  Windows  Serveur  2003,  2008,  2012:  (Active 
+
+Directory); 
+
+o  Modélisation et installation de réseau local: Câblage pour la mise en place 
+
+de réseau informatique; 
+
+o  Maintenance informatique : système d’exploitation, Sauvegarde et backup, 
+
+etc. 
+ 
+
+  AUTRES COMPETENCES  
+
+o  Parfaite  maîtrise  de  l'outil  de  collecte  de  données  ODK.  Conception  et 
+intégration  des  formulaires  de  collecte  sur  des  Téléphones  Smartphones 
+pour des enquêtes. Récupération à partir d'un serveur, et traitements des 
+données collectées,  pour des besoins de statistiques et autres; 
+
+o  Notion avancée sur le logiciel de traitement Statistique SPSS; 
+o  Autres Formations bénéficiées: Communication d'entreprise, Capitalisation 
+
+des acquis, Maintenance informatique, Conduite de projet. 
+
+QUELQUES CONCEPTIONS ET REALISATIONS  
+
+o  Conception  d'une  application  de  gestion  de  scolarité  (GraceSchool)  au 
+profit  du  Complexe  Scolaire  "les  Grâces"  SARL  pour  gérer  entre-autre  les 
+inscriptions  et  les  réinscriptions,  les  paiements  des  scolarités,  le  suivi  et 
+l'évaluation des élèves, etc. ; 
+
+o  Mise en place en PHP d'un site web www.comagrobf.com de la compagnie 
+
+d'agrobusiness Site web entièrement développé en PHP ; 
+
+o  Mise  en  place  en  PHP  d'un  site  web  www.lesgraces.net  du  Complexe 
+
+Scolaire "les Grâces" SARL. Site web entièrement développé en PHP ; 
+
+o  Développement en PHP, des modules d'administration propres au  site web 
+www.iciouaga.com qui  est  un  Site  web  dynamique,  pour  la  promotion  de 
+
+ 
+
+3 
+
+ produits des services, et de l'actualité. Modules entièrement développés en 
+PHP; 
+
+o  Développement  PHP  des  modules  d'administration  propre  au    site  web 
+www.ofmburkina.org -  Conçu  en  PHP:  Site  de  présentation  d'une 
+organisation religieuse. Modules entièrement développés en PHP; 
+
+o  Développement en PHP, des modules d'administration propres au  site web  
+www.fagmethod.com  Site  de  présentation  d'une  structure  Informatique. 
+Modules entièrement développés en PHP; 
+
+o  Administration  de  la  plateforme  d'information  sur  les  marchés  agricoles 
+Web to SMS (SIMAgri: www.simagri.net ): Vérification avant validation des 
+données envoyées sur la plateforme via SMS. 
+
+o  Développement  d'un  répertoire  électronique  de  l'interprofession  Table 
+Filière  Karité  nommée  "TFKAppli",  pour  la  gestion  des  organisations 
+membres de l'interprofession; 
+
+o  GestParoisse :  Application  de  Gestion  Paroissiale  -  St  Charles  Lwanga  - 
+Paroisse  de  Dapaong-  Application  développé  en  Delphi  interagissant  avec 
+une Base de données Access; 
+
+o  Développement  de  logiciel  de  gestion  commerciale  pour  les  ventes  des 
+- 
+
+groupes  électrogènes  au  profit  de 
+Ouagadougou - Application développée en VBA et Access; 
+
+l’établissement  FasoCado 
+
+o  Autres  site  web:  www.barhackservices.com  :  Site  web  de  service  traiteur 
+
+prenant en compte la demande devis en ligne. 
+
+ 
+
+PERSONNES DE REFERENCE  
+
+1.  Monsieur HIEN Dékouwin Magloire: Secrétaire Permanent de l'Interprofession 
+
+Table Filière Karité. 02 BP 5751 Ouagadougou 02.  
+Tel: 70 43 73 87 / 60 45 60 27 / 76 68 58 98.  
+Email : tablefilierekarite@gmail.com - hiendekmag@gmail.com -  
+Site web: www.tfkburkina.com  
+
+ 
+
+ 
+
+2.  Madame ZOUMENOU / PADENOU Séverine: Fondatrice du Complexe Scolaire 
+
+"Les GRÂCES" SARL. 05 BP 6034 Ouagadougou 05 
+
+4 
+
+  Tel: 25 34 02 93/ 25 34 15 34/ 70 23 19 93.  
+Email: pszoumenou2005@hotmail.fr - info@lesgraces.net   
+Site web: www.lesgraces.net .  
+
+ 
+
+3.  Monsieur Kanlieguibe FAGUININ : Directeur Général de FAGMETHOD, 424, Av 
+
+ILBOUDO  Waogyandé, porte 10, Koulouba, 09 BP 1555 Ouagadougou 09.  
+Tel: 50 33 18 85 – 72 82 80 84 – 78 28 31 79 – 76 24 94 85  
+E-mail: info@fagmethod.com 
+Site web : www.fagmethod.com - www.iciouaga.com   
+
+ 
+
+Je soussigné OUEDRAOGO W. Jérémie, certifie sur l’honneur et en toute conscience 
+
+que les renseignements fournis ci-dessus, rendent fidèlement compte de ma situation, de 
+
+mes qualifications et de mon expérience professionnelle. 
+
+ 
+
+ 
+
+Ouagadougou, le 30 octobre 2018 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUEDRAOGO Wênd-Panga. Jérémie 
+
+ 
+
+5 
+
+
